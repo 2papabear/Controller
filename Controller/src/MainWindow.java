@@ -2,7 +2,7 @@ import javax.swing.*;
 
 class Frame{
 	Frame(){
-		JFrame mWindow = new JFrame ("Hello World!");
+		JFrame mWindow = new JFrame ("Hello World!!!11");
 		mWindow.setSize(200,200);
 		mWindow.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		mWindow.setVisible(true);
